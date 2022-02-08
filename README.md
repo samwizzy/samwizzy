@@ -9,8 +9,7 @@ I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development
 
 ## Interest 👀 
 
-I’m interested in working as a frontend developer, backend developer, however frontend is my strongest suit, its okay to be in doubt but i am quick to delivery 
-and spontaneous at carrying out my tasks...
+I’m interested in working as a frontend developer, backend developer, however frontend is my strongest suit, its okay to be in doubt but i am quick to delivery, spontaneous with implementation, and thorough at carrying out my tasks...
 
 ## Current Goal 🌱 
 
