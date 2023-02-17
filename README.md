@@ -27,7 +27,7 @@ _The following are medium via which you can reach me:_
 - 07068962708, 09071142337
 
 **Fun fact:** 
-> I have an OCD with untidy codes, always has to be neat and top-notch.
+> I have an OCD for untidy codes, always has to be neat and top-notch.
 
 > I have a knack for following conventions, doesn't matter if it worked without convention.
 
