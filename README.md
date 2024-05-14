@@ -6,6 +6,7 @@ always open to showing off what i can do, however, if you see anything you like,
 ## About Me 👋 
 
 I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development, with an excellent track record, i am confident about my skills, and i enjoy talking about them, my goal is always to keep the project on the roll until fruition. I practice a lot to make myself up to date with current technologies.
+https://img.shields.io/badge/any_text-you_like-blue
 
 ## Interest 👀 
 
