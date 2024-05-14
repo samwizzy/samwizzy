@@ -1,16 +1,15 @@
 # Welcome to my Github Profile!
 
 Hi there, I am glad you made it here, what are you looking for? Projects i have worked on i suppose. Take your time and go through my codebase if you like. I am 
-always open to showing off what i can do, however, if you see anything you like, feel free to reach out for a collaboration.
+always open to showing off what i can do, however, if you see anything you like, feel free to reach out for a collaboration or pre-screening.
 
 ## About Me 👋 
 
-I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development, with an excellent track record, i am confident about my skills, and i enjoy talking about them, my goal is always to keep the project on the roll until fruition. I practice a lot to make myself up to date with current technologies.
-![Static Badge](https://img.shields.io/badge/sam_web-okeke_20-blue)
+I’m Samuel Okeke, a seasoned, passionate and enthusiastic software development, with an excellent track record, i am confident about my skills, and i enjoy talking about them. My goal is always to keep the project on the roll until fruition. I also practice a lot to make myself up to date with current technologies.
 
 ## Interest 👀 
 
-I’m interested in working as a frontend developer, backend developer, however frontend is my strongest suit, its okay to be in doubt but i am quick to delivery, spontaneous with implementation, and thorough at carrying out my tasks...
+I’m interested in working as a senior frontend developer, backend developer, however frontend is my strongest suit. Its okay to be in doubt but i am quick with deliverables, spontaneous with implementation, and thorough with best practices while carrying out my tasks...
 
 ## Current Goal 🌱 
 
@@ -19,7 +18,7 @@ web development...
 
 ## Looking forward to? 💞️ 
 
-I’m looking to collaborate on open source project, and with the great minds od developers...
+I’m looking to collaborate on open source project, and with the great developers from diverse cultures...
 
 ## How to reach me 📫
 
@@ -28,9 +27,17 @@ _The following are medium via which you can reach me:_
 - 07068962708, 09071142337
 
 **Fun fact:** 
-> I have an OCD for untidy codes, always has to be neat and top-notch.
+> I have an OCD for untidy codes, i believe code should be neat and performant. Well, i see a lot of those when i review PRs anyways.
 
-> I have a knack for following conventions, doesn't matter if it worked without convention.
+> I have a knack for following conventions, doesn't matter if it worked without the convention.
+
+## Frameworks & year used
+|Framework            |Language                   |Years                                                             |
+|---------------------|---------------------------|------------------------------------------------------------------|
+|React                |Javascript / Typescript    |![Static Badge](https://img.shields.io/badge/6-years-blue)        |
+|Angular              |Typescript                 |![Static Badge](https://img.shields.io/badge/6-years-blue)        |
+|Nextjs               |Typescript                 |![Static Badge](https://img.shields.io/badge/6-years-blue)        |
+|Laravel              |PHP                        |![Static Badge](https://img.shields.io/badge/3-years-blue)        |
 
 <!---
 Samuel-com/Samuel-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
